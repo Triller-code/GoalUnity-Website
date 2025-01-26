@@ -1,0 +1,49 @@
+
+.card{
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+  padding: 40px;
+  margin: 10px;
+  max-width: 250px;
+  background-color: hsla(300, 39%, 25%, 0.841);
+  color: hsl(60, 57%, 91%);
+  font-size: large;
+  text-align: center;
+  display: inline-block;
+  justify-content:space-evenly;
+  height: 350px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-image: url(C:\Users\Administrator\OneDrive\Desktop\App\project2\GoalUnity\src\assets\football4.jpg);
+  background-repeat: no-repeat;
+  
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  
+}
+
+.card-title {
+  margin: 12px 0 8px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.card-description {
+  font-size: 1rem;
+  color: white;
+}
+.pic{
+  display: flex;
+  justify-content: space-evenly;
+ border: 2px solid;
+  height: 700px;
+  align-items: center;
+ 
+
+}
