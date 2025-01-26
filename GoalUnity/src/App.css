@@ -136,9 +136,9 @@ main {
   font-size: 60px;
   font-weight: bold;
   color: rgb(255, 255, 255);
-  opacity: 0; /* Start invisible */
-  transform: translateY(20px); /* Start slightly below */
-  animation: fadeMove 3s ease-in-out infinite; /* Infinite animation */
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeMove 3s ease-in-out infinite; 
 }
 .about-us{
   padding-bottom: 200px;

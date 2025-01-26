@@ -21,7 +21,7 @@ function App() {
     setIsNavVisible(!isNavVisible);
   };
 
-  // Automatically hide navbar on scroll
+ 
   useEffect(() => {
     const handleScroll = () => {
       if (isNavVisible) {
